@@ -1,0 +1,22 @@
+Homework1
+Huge Integer Class (8.16)
+
+使用eclipse開發
+
+HugeInteger.java:
+parse(): 將輸入字串放入一位數放入陣列num
+toString(): 將num陣列轉為字串
+isEqualTo(): 判斷是否相等
+isNotEqualTo(): 判斷是否不相等
+isGreaterThan(): 判斷是否大於
+isLessThan(): 判斷是否小於
+isGreaterThanOrEqualTo(): 判斷是否大於等於
+isLessThanOrEqualTo(): 判斷是否小於等於
+isZero(): 判斷輸入字串是否為0(檢查陣列第一個元素)
+add(): 兩數相加
+subtract(): 兩數相減(無法處理負數)
+
+HugeIntegerTest.java:
+測試檔案
+輸入兩數，並進行兩數比較以及加減
+輸出使用toString，將陣列轉為字串

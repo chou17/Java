@@ -1,0 +1,15 @@
+Homework1
+Tic-Tac Toe (8.17)
+
+使用eclipse開發
+
+TicTacToe.java:
+playTicTacToe(): 井字遊戲
+printBoard(): 印出當前計分板
+selectPosition(): 玩家輸入位置(若錯誤或重複得以重新輸入)
+winner(): 判斷贏家
+
+TicTacToeTest.java:
+測試檔案
+呼叫playTicTacToe()
+若playTicTacToe()回傳錯誤，表示使用者輸入錯誤(得重新輸入)
